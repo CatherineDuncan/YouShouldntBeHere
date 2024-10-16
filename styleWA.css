@@ -1,0 +1,13 @@
+body{
+    background-color:#000000;
+}
+h1{
+    font-family: 'Old typewriter', sans-serif;
+}
+h2{
+    font-family: 'Type Keys', sans-serif;
+    font-family: 'Type Keys Filled', sans-serif;
+}
+a{
+    color: rgb(255, 255, 255);
+    }
