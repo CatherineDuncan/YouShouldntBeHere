@@ -3,18 +3,28 @@ body{
 }
 h1{
     font-family: 'Old typewriter', sans-serif;
-    color: rgb(255, 255, 255);
-    text-align: center;
 }
 h2{
     font-family: 'Type Keys', sans-serif;
     font-family: 'Type Keys Filled', sans-serif;
 }
 
+h3{ 
+    font-family: 'Old typewriter', sans-serif;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+
+}
+
 a{
   font-family: 'Old typewriter', sans-serif;
   font-size: 25px;
   color: rgb(255, 255, 255);
+}
+
+h1{
+color: rgb(255, 255, 255);
+text-align: center;
 }
 
 img{
