@@ -13,8 +13,8 @@ h2{
 
 a{
   font-family: 'Old typewriter', sans-serif;
-  font-size: 25px;
-  color: rgb(133, 41, 41);
+  font-size: 35px;
+  color: rgb(255, 255, 255);
 }
 
 img{
@@ -22,9 +22,8 @@ img{
     height: auto;
 }
 
-.first {
-    position: absolute;
-    right: 450px;
-    bottom: 5px;
-  }
+.first{
+    text-align: center;
+}
+
   

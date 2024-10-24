@@ -31,3 +31,11 @@ img{
     width: 100%;
     height: auto;
 }
+
+li{
+    text-align: center;
+}
+
+.townpara{
+    text-align: center;
+}
